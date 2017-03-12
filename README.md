@@ -1,4 +1,4 @@
-# tabs
+# Adinnet-UI (bootswatch)
 
 > A Vue.js project
 
